@@ -8,4 +8,4 @@ Run traditional LeNet5 as follows:
   
 python3 LeNet5.py
   
-the epochs in traditional LeNet5 van be changed in code
+the epochs in traditional LeNet5 can be changed in code
