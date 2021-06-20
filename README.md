@@ -2,7 +2,7 @@
 
 Run binarised CNN as follows
 
-python3 main.py --epochs=<no of epochs>
+python3 main.py --epochs=#no of epochs
 
 Run traditional LeNet5 as follows:
   
